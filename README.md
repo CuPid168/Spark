@@ -1,6 +1,8 @@
 
+![Cover (1)](https://github.com/user-attachments/assets/4478f720-e310-41dd-a43f-15c16a48a818)
 
-# SPARK: Dummy Model Training![img_0](https://github.com/user-attachments/assets/b493fb25-af0a-45ec-b6a7-7f78b62d5e62)
+
+# SPARK: Dummy Model Training!
 
 
 This repository contains code for dummy training of the SPARK model using a synthetic dataset.
