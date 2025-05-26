@@ -13,4 +13,6 @@ SPARK is a time series model designed to provide an objective assessment of stud
 
 This implementation focuses on demonstrating the model's training process with synthetic data for development and testing purposes.
 
+Link Figma : https://www.figma.com/design/tbfU8D6elfRY4mP1Hdom5Q/SPARK?node-id=0-1&t=9qZDXlIcUr2i7Dnk-1 
+
 ---
